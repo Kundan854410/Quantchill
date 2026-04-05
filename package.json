@@ -26,8 +26,11 @@
     "fastify": "^5.8.4"
   },
   "devDependencies": {
+    "@capacitor/haptics": "^8.0.2",
     "@types/node": "^25.5.0",
+    "@types/three": "^0.183.1",
     "@types/ws": "^8.18.1",
+    "three": "^0.183.2",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2"
   }
